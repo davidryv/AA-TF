@@ -13,5 +13,5 @@ This will include some of the following features:
 - Jenkins GUI management
 - CI/CD
 
-*For more information visit : http://riosyvalles.com/wp/index.php/category/aa_tf/*
-*David Rios Y Valles , board@riosyvalles.com *
+*For more information visit : http://riosyvalles.com/wp/index.php/category/aa_tf/
+*David Rios Y Valles , board@riosyvalles.com 
